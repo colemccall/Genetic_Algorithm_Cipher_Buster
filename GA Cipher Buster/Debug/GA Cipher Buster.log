@@ -1,0 +1,29 @@
+﻿  Genetic.cpp
+C:\Users\colem\OneDrive - Northwest Nazarene University\Desktop\Sophomore\Spring\Artificial Intelligence\GA Cipher Buster\GA Cipher Buster\Genetic.cpp(84,40): warning C4018: '<': signed/unsigned mismatch
+C:\Users\colem\OneDrive - Northwest Nazarene University\Desktop\Sophomore\Spring\Artificial Intelligence\GA Cipher Buster\GA Cipher Buster\Genetic.cpp(94,33): warning C4018: '<': signed/unsigned mismatch
+C:\Users\colem\OneDrive - Northwest Nazarene University\Desktop\Sophomore\Spring\Artificial Intelligence\GA Cipher Buster\GA Cipher Buster\Genetic.cpp(169,38): warning C4018: '<': signed/unsigned mismatch
+C:\Users\colem\OneDrive - Northwest Nazarene University\Desktop\Sophomore\Spring\Artificial Intelligence\GA Cipher Buster\GA Cipher Buster\Genetic.cpp(171,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\colem\OneDrive - Northwest Nazarene University\Desktop\Sophomore\Spring\Artificial Intelligence\GA Cipher Buster\GA Cipher Buster\Genetic.cpp(190,34): warning C4018: '<': signed/unsigned mismatch
+C:\Users\colem\OneDrive - Northwest Nazarene University\Desktop\Sophomore\Spring\Artificial Intelligence\GA Cipher Buster\GA Cipher Buster\Genetic.cpp(232,33): warning C4018: '<': signed/unsigned mismatch
+C:\Users\colem\OneDrive - Northwest Nazarene University\Desktop\Sophomore\Spring\Artificial Intelligence\GA Cipher Buster\GA Cipher Buster\Genetic.cpp(255,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\colem\OneDrive - Northwest Nazarene University\Desktop\Sophomore\Spring\Artificial Intelligence\GA Cipher Buster\GA Cipher Buster\Genetic.cpp(268,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\colem\OneDrive - Northwest Nazarene University\Desktop\Sophomore\Spring\Artificial Intelligence\GA Cipher Buster\GA Cipher Buster\Genetic.cpp(281,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\colem\OneDrive - Northwest Nazarene University\Desktop\Sophomore\Spring\Artificial Intelligence\GA Cipher Buster\GA Cipher Buster\Genetic.cpp(311,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\colem\OneDrive - Northwest Nazarene University\Desktop\Sophomore\Spring\Artificial Intelligence\GA Cipher Buster\GA Cipher Buster\Genetic.cpp(412,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\colem\OneDrive - Northwest Nazarene University\Desktop\Sophomore\Spring\Artificial Intelligence\GA Cipher Buster\GA Cipher Buster\Genetic.cpp(464,38): warning C4018: '<': signed/unsigned mismatch
+C:\Users\colem\OneDrive - Northwest Nazarene University\Desktop\Sophomore\Spring\Artificial Intelligence\GA Cipher Buster\GA Cipher Buster\Genetic.cpp(489,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\colem\OneDrive - Northwest Nazarene University\Desktop\Sophomore\Spring\Artificial Intelligence\GA Cipher Buster\GA Cipher Buster\Genetic.cpp(491,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\colem\OneDrive - Northwest Nazarene University\Desktop\Sophomore\Spring\Artificial Intelligence\GA Cipher Buster\GA Cipher Buster\Genetic.cpp(493,31): warning C4244: '/=': conversion from 'double' to 'int', possible loss of data
+C:\Users\colem\OneDrive - Northwest Nazarene University\Desktop\Sophomore\Spring\Artificial Intelligence\GA Cipher Buster\GA Cipher Buster\Genetic.cpp(546,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\colem\OneDrive - Northwest Nazarene University\Desktop\Sophomore\Spring\Artificial Intelligence\GA Cipher Buster\GA Cipher Buster\Genetic.cpp(558,15): warning C4018: '<': signed/unsigned mismatch
+C:\Users\colem\OneDrive - Northwest Nazarene University\Desktop\Sophomore\Spring\Artificial Intelligence\GA Cipher Buster\GA Cipher Buster\Genetic.cpp(645,34): warning C4018: '<': signed/unsigned mismatch
+C:\Users\colem\OneDrive - Northwest Nazarene University\Desktop\Sophomore\Spring\Artificial Intelligence\GA Cipher Buster\GA Cipher Buster\Genetic.cpp(666,34): warning C4018: '<': signed/unsigned mismatch
+C:\Users\colem\OneDrive - Northwest Nazarene University\Desktop\Sophomore\Spring\Artificial Intelligence\GA Cipher Buster\GA Cipher Buster\Genetic.cpp(708,20): warning C4018: '<': signed/unsigned mismatch
+  Main.cpp
+  Member.cpp
+  generational.cpp
+C:\Users\colem\OneDrive - Northwest Nazarene University\Desktop\Sophomore\Spring\Artificial Intelligence\GA Cipher Buster\GA Cipher Buster\generational.cpp(37,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\colem\OneDrive - Northwest Nazarene University\Desktop\Sophomore\Spring\Artificial Intelligence\GA Cipher Buster\GA Cipher Buster\generational.cpp(103,20): warning C4018: '<': signed/unsigned mismatch
+  steadystate.cpp
+  Generating Code...
+  GA Cipher Buster.vcxproj -> C:\Users\colem\OneDrive - Northwest Nazarene University\Desktop\Sophomore\Spring\Artificial Intelligence\GA Cipher Buster\Debug\GA Cipher Buster.exe
